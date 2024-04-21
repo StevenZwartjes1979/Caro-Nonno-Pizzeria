@@ -5,4 +5,4 @@
 verse basilicum
 olijfolie
 pizzakruiden (kijken of deze naar github verhuist)...
-Test 2 kijken of deze regel naar Schijfmee vershuid na commit en git pull
+test push 20u58
